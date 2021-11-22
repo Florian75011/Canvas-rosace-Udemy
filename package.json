@@ -1,0 +1,13 @@
+{
+  "name": "Canvas rosace Udemy",
+  "version": "1.0.0",
+  "description": "Exercices avec canevas et minifications",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
